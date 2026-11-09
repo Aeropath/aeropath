@@ -206,4 +206,4 @@ aeropath-master/
 
 Bu proje, **TÜBİTAK** proje kapsamında geliştirilmiştir.
 
-Veri Seti ve Eğitilmiş hazır modeller için mail gönderiniz : bugra_ayrilmaz@outlook.com
+Veri Seti ve Eğitilmiş hazır modeller için mail gönderiniz : engin.orsel@gmail.com
